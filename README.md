@@ -21,19 +21,24 @@
 - In order to add this library, get the prebuilt binary from https://www.glfw.org/download.html
 - I am downloading GLFW ver 3.4 i.e. the latest ver of GLFW as of now
 
-- BRO WHAT
-- I was trying to download the prebuilt binary of GLFW
-- But, by mistake I downloaded the whole github repo of GLFW 
-- So then I am like if I have cloned the repo, why not just build it myself
-- So I do the usual stuff, created a build/ dir then cd into it and then did `cmake ../` and then `make`
-- Then, I am confused. I can't find a bin/ folder
-- So, I just wander around in the build/ folder and come across the examples/ dir
-- Out of curiosity, I see that there are ELF files
-- So, I just run the most goofy sounding one, `./examples/boing`
-- And there it is, a ball going boing all over the place and there is lighting with shadow
-- And that looked so cool
-- So as of now, instead of proceeding with OpenGL, I would like to discover GLFW further since its not just a basic rendering library.
-- Its all I need
-- And bonus points DING DING DING, it is written in C
-- So Cool!
-- I have followed this OpenGL tutorial 2/3 times in the past but never thought that GLFW was such a complete library on its own as well
+> BRO WHAT\
+> I was trying to download the prebuilt binary of GLFW\
+> But, by mistake I downloaded the whole github repo of GLFW \
+> So then I am like if I have cloned the repo, why not just build it myself\
+> So I do the usual stuff, created a build/ dir then cd into it and then did `cmake ../` and then `make`\
+> Then, I am confused. I can't find a bin/ folder\
+> So, I just wander around in the build/ folder and come across the examples/ dir\
+> Out of curiosity, I see that there are ELF files\
+> So, I just run the most goofy sounding one, `./examples/boing`\
+> And there it is, a ball going boing all over the place and there is lighting with shadow\
+> And that looked so cool\
+> So as of now, instead of proceeding with OpenGL, I would like to discover GLFW further since its not just a basic rendering library.\
+> Its all I need\
+> And bonus points DING DING DING, it is written in C\
+> So Cool!\
+> I have followed this OpenGL tutorial 2/3 times in the past but never thought that GLFW was such a complete library on its own as well\
+> BRO I just loaded up the split view demo and this is so cool\
+> The time is -> 23:44\
+> And I have college tomorrow in the morning\
+> But I am so excited to try GLFW out to its max capabilities\
+> I am just so sold with that donut split view demo with the shading and 3d view and being able to control it and seeing effect on all the windows that crazzy dude
