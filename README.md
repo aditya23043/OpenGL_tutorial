@@ -8,3 +8,5 @@
 > This might be the first time I am using the SF Mono font in the regular weight and this akshually looks really cool
 
 - 2025-02-05 23:09 > Making this as a separate repository so that I am actually reminded that I should complete this tutorial since I want my GitHub data chart to go up of course
+
+> Motivation for me -> Remember when you went through like 50% of the FreeCodeCamp tutorial of OpenGL on your way back from Sikkim in Papa's RA when everyone else was taking rest and I was sitting in the Dining / Living Room part of the RA (Salon)
