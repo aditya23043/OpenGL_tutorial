@@ -1,6 +1,7 @@
-> Finally, I hope this is the last "OpenGL" directory I have to create in my coding repository since I have been leaving this fantastic tutorial always at the midpoint (about the point where we learn about IBOs). Not sure if that is the midpoint or not. 
+> Finally, I hope this is the last "OpenGL" directory I have to create in my coding repository since I have been leaving this fantastic tutorial always at the midpoint (about the point where we learn about IBOs). Not sure if that is the midpoint or not.
 
 # Resource(s) used
+
 - The most amazing resource ever -> https://learnopengl.com
 - I have never came across a better wiki about a topic than this
 - Do note that Arch Wiki comes very closer to this.
@@ -14,9 +15,11 @@
 # Tutorial
 
 ## Starting Out
+
 - We have to create a window, define a context and handle user input all by ourselves
 
 ### GLFW
+
 - C library which gives us the basic rendering capabilities and allows us to create an OpenGL context, define window params and handle user input
 - In order to add this library, get the prebuilt binary from https://www.glfw.org/download.html
 - I am downloading GLFW ver 3.4 i.e. the latest ver of GLFW as of now
@@ -42,3 +45,12 @@
 > And I have college tomorrow in the morning\
 > But I am so excited to try GLFW out to its max capabilities\
 > I am just so sold with that donut split view demo with the shading and 3d view and being able to control it and seeing effect on all the windows that crazzy dude
+
+> 2025-02-07 11:27
+> So, it turns out that those examples were also using OpenGL
+> I mean that should have been obvious since GLFW is just a windowing library and the graphics are rendered using OpenGL only.
+> Back to learning OpenGL
+
+## 2025-03-18 22:58
+
+- Wow, this repo did fell off on my priority list
